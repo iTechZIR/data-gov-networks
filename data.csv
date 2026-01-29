@@ -1,0 +1,77 @@
+Status,IP,Version,System
+On,78.38.239.18,Tunnel is ssl: unknown service,
+On,78.38.239.19,Tunnel is ssl: unknown service,
+On,78.38.239.24,Tunnel is ssl: unknown service,
+On,78.38.239.27,Tunnel is ssl: nginx 1.18.0,Linux 4.19 - 5.15
+On,78.38.239.28,Tunnel is ssl: unknown service,
+On,78.38.239.29,Tunnel is ssl: nginx,Linux 4.19 - 5.15
+On,78.38.239.30,?,Microsoft Windows Server 2022
+On,78.38.239.31,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2016
+On,78.38.239.32,,
+On,78.38.239.33,,
+On,78.38.239.35,Tunnel is ssl: unknown service,
+On,78.38.239.40,Tunnel is ssl: Apache httpd 2.4.35,
+On,78.38.239.41,Tunnel is ssl: Microsoft IIS httpd 10.0,
+On,78.38.239.46,Tunnel is ssl: nginx 1.18.0,Linux 4.19 - 5.15
+On,78.38.239.47,Tunnel is ssl: unknown service,
+On,78.38.239.48,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2016
+On,78.38.239.52,Tunnel is ssl: unknown service,
+On,78.38.239.55,Tunnel is ssl: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2022
+On,78.38.239.57,?,Windows Server 2019
+On,78.38.239.60,Tunnel is ssl: unknown service,Linux 4.19 - 5.15
+On,78.38.239.62,?,Windows Server 2019
+On,78.38.239.64,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Windows Server 2019
+On,78.38.239.70,Tunnel is ssl: unknown service,
+On,78.38.239.74,?,Microsoft Windows Server 2022
+On,78.38.239.75,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2022
+On,78.38.239.76,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2022
+On,78.38.239.79,Tunnel is ssl: unknown service,Linux 4.19 - 5.15
+On,78.38.239.81,Tunnel is ssl: nginx 1.24.0,Linux 4.19 - 5.15
+On,78.38.239.86,Tunnel is ssl: nginx,Linux 4.19 - 5.15
+On,78.38.239.87,Tunnel is ssl: unknown service,
+On,78.38.239.90,Tunnel is ssl: unknown service,IPFire 2.25 firewall (Linux 4.14)
+On,78.38.239.91,Tunnel is ssl: nginx 1.14.1,
+On,78.38.239.94,Tunnel is ssl: Apache httpd,
+On,78.38.239.126,Tunnel is ssl: unknown service,
+On,78.38.239.129,Tunnel is ssl: nginx 1.14.1,
+On,78.38.239.130,Tunnel is ssl: nginx,
+On,78.38.239.131,Tunnel is ssl: unknown service,
+On,78.38.239.134,Tunnel is ssl: Kerio MailServer http config,Linux 4.0 - 4.4
+On,78.38.239.135,Tunnel is ssl: nginx 1.24.0,Linux 4.19 - 5.15
+On,78.38.239.136,Tunnel is ssl: nginx 1.24.0,Linux 4.19 - 5.15
+On,78.38.239.150,Tunnel is ssl: nginx 1.29.2,
+On,78.38.239.156,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2022
+On,78.38.239.160,?,Microsoft Windows Server 2016
+On,78.38.239.162,Tunnel is ssl: unknown service,
+On,78.38.239.174,Tunnel is ssl: nginx 1.24.0,Linux 4.19 - 5.15
+On,78.38.239.178,Tunnel is ssl: unknown service,
+On,78.38.239.179,Tunnel is ssl: unknown service,
+On,78.38.239.180,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Windows Server 2019
+On,78.38.239.181,Tunnel is ssl: unknown service,
+On,78.38.239.191,Tunnel is ssl: unknown service,Android TV OS 11 (Linux 4.19)
+On,78.38.239.195,Tunnel is ssl: nginx,
+On,78.38.239.197,Tunnel is ssl: unknown service,
+On,78.38.239.200,Tunnel is ssl: unknown service,
+On,78.38.239.201,Tunnel is ssl: unknown service,
+On,78.38.239.202,?,Windows Server 2019
+On,78.38.239.207,,
+On,78.38.239.211,,Microsoft Windows Server 2016
+On,78.38.239.212,Tunnel is TLSv1: Microsoft IIS httpd 10.0,Windows Server 2019
+On,78.38.239.213,?,Microsoft Windows Server 2022
+On,78.38.239.215,Tunnel is ssl: unknown service,
+On,78.38.239.216,?,Microsoft Windows Server 2016
+On,78.38.239.217,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2016
+On,78.38.239.218,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2016
+On,78.38.239.219,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2016
+On,78.38.239.220,,
+On,78.38.239.221,,
+On,78.38.239.222,,
+On,78.38.239.223,,
+On,78.38.239.236,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Microsoft Windows Server 2022
+On,78.38.239.237,,"Cisco 1812, 3640, or 3700 router (IOS 12.4)"
+On,78.38.239.241,Tunnel is ssl: Apache httpd 2.4.52,Linux 4.19 - 5.15
+On,78.38.239.250,?,Microsoft Windows Server 2016
+On,78.38.239.251,?,Microsoft Windows Server 2016
+On,78.38.239.252,?,Microsoft Windows Server 2016
+On,78.38.239.253,Tunnel is TLSv1: Microsoft HTTPAPI httpd 2.0,Windows Server 2019
+On,78.38.239.254,Tunnel is ssl: nginx,
